@@ -1,0 +1,16 @@
+name: python_3.12.3
+channels:
+  - defaults
+dependencies:
+  - python=3.12.3
+  - ipykernel=6.29.4
+  - numpy=1.26.4
+  - scipy=1.13.0
+  - pyyaml=6.0.1
+  - opencv-python=4.9.0.80
+  - matplotlib=3.9.0
+  - paramiko=3.4.0
+  - sv_ttk=2.6.0
+  - rpyc=6.0.0
+  - torchvision=0.18.0
+  
