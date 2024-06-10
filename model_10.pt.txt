@@ -1,0 +1,8 @@
+Information about model_10.pt
+
+This file is 161884 KB in size and is not located in Dr. Lowe's Github site.
+To download the file, go to Brendan and Audrey's Github site:
+https://github.com/AudreyVersteegen/Capstone-LEGOLAS
+
+
+
