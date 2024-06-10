@@ -1,4 +1,11 @@
 # BrendanAudrey_Capstone_Legolas
+Brendan and Audrey have a Github site. The file model_10.pt can be found there.
+They worked with cell_map.pkl. To work with a text file for cell locations, go
+to Dr. Lowe's Github site. Also small edits had to be made in Brendan and
+Audrey's files to make the code run on Dr. Lowe's laptop. Most likely the
+changes are in core.py, manual.py, and final_config.yaml. Go to Dr. Lowe's
+Github site to download the set of files that worked on her laptop.
+
 # Capstone-LEGOLAS
 
 ## Contributors
